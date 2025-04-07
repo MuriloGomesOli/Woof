@@ -30,16 +30,16 @@ data class Dog(
 )
 
 val dogs = listOf(
-    Dog(R.drawable.alimento, R.string.day_1, 1, R.string.day_description_1),
-    Dog(R.drawable.ativ_fisica, R.string.day_2, 2, R.string.day_description_2),
-    Dog(R.drawable.sono, R.string.day_3, 3, R.string.day_description_3),
-    Dog(R.drawable.redes_sociais, R.string.day_4, 4, R.string.day_description_4),
-    Dog(R.drawable.agua, R.string.day_5, 5, R.string.day_description_5),
+    Dog(R.drawable.barcelona, R.string.day_1, 1, R.string.day_description_1),
+    Dog(R.drawable.united, R.string.day_2, 2, R.string.day_description_2),
+    Dog(R.drawable.bayern, R.string.day_3, 3, R.string.day_description_3),
+    Dog(R.drawable.juventus, R.string.day_4, 4, R.string.day_description_4),
+    Dog(R.drawable.redes_sociais, R.string.day_5, 5, R.string.day_description_5),
     Dog(R.drawable.livros, R.string.day_6, 6, R.string.day_description_6),
     Dog(R.drawable.estudar, R.string.day_7, 7, R.string.day_description_7),
     Dog(R.drawable.gentil, R.string.day_8, 8, R.string.day_description_8),
     Dog(R.drawable.meditar, R.string.day_9, 9, R.string.day_description_9),
-    Dog(R.drawable.acordar, R.string.day_10, 10, R.string.day_description_10),
+    Dog(R.drawable.meditar, R.string.day_10, 10, R.string.day_description_10),
     Dog(R.drawable.diario, R.string.day_11, 11, R.string.day_description_11),
     Dog(R.drawable.gratidao, R.string.day_12, 12, R.string.day_description_12),
     Dog(R.drawable.organizacao_social, R.string.day_13, 13, R.string.day_description_13),
